@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Comfortaa', cursive;
+}
+.ewk_navbar{
+    background-color: rgba(0, 128, 248, 0.9)!important;
+}
+.ewk_navbar div ,.ewk_navbar ul{
+    background-color: transparent !important;
+}
+.ewk_cont_sec_1
+{
+    padding: 10%;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.content {
+  padding: 16px;
+}
+
+.ewk_cont_footer
+{
+    background-color: rgba(1,1,1,0.9);
+    padding: 3%;
+    color: #fff;
+    margin-top: 100px;
+    font-size: 10px
+}
+.ewk_cont_footer a
+{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
